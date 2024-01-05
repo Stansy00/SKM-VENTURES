@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stans Logistics</title>
+    <!-- Add any additional meta tags, stylesheets, or scripts here -->
+</head>
+<body>
+
+    <header>
+        <!-- Replace the following line with your actual logo -->
+        <img src="your-logo.png" alt="Stans Logistics Logo" width="100" height="100">
+        
+        <h1>Stans Logistics</h1>
+        
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to Stans Logistics!</h2>
+            <p>This is a logistics company providing top-notch services. Explore our website to learn more.</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>We offer a wide range of logistics services tailored to meet your needs.</p>
+            <!-- Add details about your services here -->
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Discover the story behind Stans Logistics and our commitment to excellence.</p>
+            <!-- Add details about your company here -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Get in touch with Stans Logistics for any inquiries or collaborations.</p>
+            <!-- Add contact information or a contact form here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Stans Logistics. All rights reserved.</p>
+        <!-- Add additional footer links or information as needed -->
+    </footer>
+
+</body>
+</html>
